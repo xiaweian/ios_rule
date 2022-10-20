@@ -3,10 +3,11 @@
 # REPO: https://github.com/xiaweian/ios_rule
 # UPDATED: 2022-10-20 02:44:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 1
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 2
 # IP-CIDR: 0
 # URL-REGEX: 0
 # TOTAL: 1
-DOMAIN-KEYWORD,mobixc.mlsynmlx.fun
+DOMAIN-KEYWORD,mlsynmlx.fun
+DOMAIN-KEYWORD,ocxve.xyz
