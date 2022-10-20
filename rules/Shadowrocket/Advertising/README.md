@@ -32,4 +32,4 @@
 #### 规则链接
 **MASTER分支**
 
-https://raw.githubusercontent.com/xiaweian/ios_rule/master/rule/Shadowrocket/Advertising/Advertising.list
+https://raw.githubusercontent.com/xiaweian/ios_rule/main/rules/Shadowrocket/Advertising/Advertising.list
