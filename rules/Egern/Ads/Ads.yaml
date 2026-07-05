@@ -1,0 +1,39 @@
+# ==========================================
+# Egern 去广告与防追踪基础规则集
+# 作用：屏蔽国内主流App的广告联盟、数据埋点与设备指纹追踪
+# ==========================================
+
+domain:
+  # ======== 1. 广告联盟与竞价投放 ========
+  
+  # 腾讯 (广点通 / 广告 SDK)
+  - sdk.e.qq.com
+  - mi.gdt.qq.com
+  
+  # 字节跳动 (穿山甲广告联盟)
+  - api-access.pangolin-sdk-toutiao.com
+  - api-access.pangolin-sdk-toutiao1.com
+  
+  # 快手 (广告联盟与投放)
+  - open.e.kuaishou.cn
+  - open.e.kuaishou.com
+  
+  # 京东 (DSP 广告竞价平台)
+  - dsp-x.jd.com
+  
+  # 一帆广告 (Yfan Ads 投放与追踪)
+  - api.yfanads.com
+  - tracker.yfanads.com
+  - adx-data.yfanads.com
+
+  # ======== 2. 数据采集、监控与设备指纹 ========
+  
+  # 快手 (设备指纹追踪)
+  - gdfp.gifshow.com
+  
+  # 京东 (运行日志与用户行为埋点)
+  - xlog.jd.com
+  
+  # 字节跳动 / 火山引擎 (商业日志上报与 APM 监控)
+  - toblog.ctobsnssdk.com
+  - apmplus.volces.com
