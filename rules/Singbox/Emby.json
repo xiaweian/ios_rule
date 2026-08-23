@@ -1,0 +1,19 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_suffix": [
+        "nijigem.by",
+        "yuanshen.help",
+        "ciallo.party",
+        "ellar.top",
+        "poloemby.xyz"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "emby"
+      ]
+    }
+  ]
+}
