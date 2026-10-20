@@ -1,0 +1,16 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain_suffix": [
+        "crunchyroll.com",
+        "gccrunchyroll.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "crunchyroll"
+      ]
+    }
+  ]
+}
