@@ -1,0 +1,6 @@
+# 规则名称: Crunchyroll
+# 规则统计: 5
+
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,gccrunchyroll.com
+DOMAIN-SUFFIX,crunchyrollcdn.com
