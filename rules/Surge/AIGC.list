@@ -2,7 +2,7 @@
 # AUTHOR: viewer12/OverseasAI (converted for Surge)
 # SOURCE: https://github.com/viewer12/OverseasAI.list
 # FORMAT: RULE-SET
-# TOTAL: 496
+# TOTAL: 497
 
 DOMAIN,ai-gateway.vercel.sh
 DOMAIN,ai.google.dev
@@ -320,6 +320,7 @@ DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,meetgeek.ai
 DOMAIN-SUFFIX,mem.ai
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,milvus.io
